@@ -1,9 +1,7 @@
 # Python-Projects
 
-<style type="text/css">
-    ol { list-style-type: upper-alpha; }
-</style>
-
-test
-check
-okay
+<ol type="a">
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ol>
